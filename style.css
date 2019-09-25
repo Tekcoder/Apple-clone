@@ -1,5 +1,5 @@
 body {
-  margin: 0px;
+  margin: 0;
   font-family: "Roboto", sans-serif;
 }
 
@@ -15,8 +15,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   border-radius: 6px;
-  background: -webkit-gradient(linear,0 0,0 100%,from(rgba(0px, 0px, 0px, 0.2px)),color-stop(0.05, rgba(0, 0, 0, 0)),color-stop(0.97, rgba(0, 0, 0, 0)),to(rgba(0, 0, 0, 0.45))
-    ),-webkit-gradient(linear, 0 0, 100% 0, from(rgba(0px, 0px, 0px, 0.2px)), color-stop(0.002, rgba(0, 0, 0, 0)), color-stop(0.998, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.2))),-webkit-gradient(linear, 0 100%, 0 0, from(#666), color-stop(0.5, #5e5e5e), color-stop(0.51, #707070), to(#808080));box-shadow: 0 5px 10px rgba(0, 0, 0, 0.342);
+  background: -webkit-gradient(linear,0 0,0 100%,from(rgba(0, 0, 0, 0.2)),color-stop(0.05, rgba(0, 0, 0, 0)),color-stop(0.97, rgba(0, 0, 0, 0)),to(rgba(0, 0, 0, 0.45))
+    ),-webkit-gradient(linear, 0 0, 100% 0, from(rgba(0, 0, 0, 0.2)), color-stop(0.002, rgba(0, 0, 0, 0)), color-stop(0.998, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.2))),-webkit-gradient(linear, 0 100%, 0 0, from(#666), color-stop(0.5, #5e5e5e), color-stop(0.51, #707070), to(#808080));box-shadow: 0 5px 10px rgba(0, 0, 0, 0.342);
 }
 
 .main-navbar:first-child {
@@ -33,15 +33,15 @@ body {
   background: transparent;
   padding: 0px 50px;
   border: none;
-  border-right: 1px solid rgba(0px, 0px, 0px, 0.336px);
-  border-left: 1px solid rgba(221px, 207px, 207px, 0.336px);
+  border-right: 1px solid rgba(0, 0, 0, 0.336);
+  border-left: 1px solid rgba(221, 207, 207, 0.336);
   font-size: 15px;
-  color: rgb(236px, 233px, 233px);
+  color: rgb(236, 233, 233);
   text-shadow: 0px 1px black;
 }
 
 .nav-button:hover {
-  background: rgba(0px, 0px, 0px, 0.295px);
+  background: rgba(0, 0, 0, 0.295);
   cursor: pointer;
 }
 
@@ -62,7 +62,7 @@ body {
   background-size: contain;
   background-position: 2px 1px;
   background-repeat: no-repeat;
-  border: 1px solid rgba(139px, 138px, 138px, 0.925px);
+  border: 1px solid rgba(139, 138, 138, 0.925);
   border-radius: 10px;
   color: white;
   box-shadow: inset 0px 2px 2px black;
