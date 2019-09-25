@@ -8,7 +8,7 @@ The project also exercises semantics in order to make the code more readable.
 
 All CSS code has been written in style.css to separate the styling logic from the structure logic
 
-#Assignment Link
+# Assignment Link
 
 https://microverse.pathwright.com/library/fast-track-curriculum/69047/path/step/59538830/
 
