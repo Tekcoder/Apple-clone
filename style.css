@@ -16,7 +16,7 @@ body {
   margin-right: auto;
   border-radius: 6px;
   background: #707070;
-  background: linear-gradient(top, rgba(0, 0, 0, .2) 0, rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0) 97%, rgba(0, 0, 0, .45) 100%), linear-gradient(left, rgba(0, 0, 0, .2) 0, rgba(0, 0, 0, 0) .2%, rgba(0, 0, 0, 0) 99.8%, rgba(0, 0, 0, .2) 100%);
+  background: linear-gradient(#757575 50%, #5f5f5f 50%);
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.342);
 }
 
