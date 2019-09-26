@@ -89,8 +89,9 @@ body {
   text-align: center;
 }
 
-footer a {
-  color: #1d77ec;
+.hero a {
+  font-size: 25px;
+  color: white;
   text-decoration: none;
 }
 
@@ -98,9 +99,8 @@ footer a:hover {
   text-decoration: underline;
 }
 
-.hero a {
-  font-size: 25px;
-  color: white;
+footer a {
+  color: #1d77ec;
   text-decoration: none;
 }
 
