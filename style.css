@@ -9,8 +9,8 @@ body {
   justify-content: center;
   width: 1200px;
   height: 36px;
-  left: 0px;
-  right: 0px;
+  left: 0;
+  right: 0;
   top: 30px;
   margin-left: auto;
   margin-right: auto;
@@ -100,7 +100,7 @@ body {
 }
 
 .iphone-display img {
-  margin: -12px 0px 0px -39.9px;
+  margin: -12px 0 0 -39.9px;
 }
 
 li {
