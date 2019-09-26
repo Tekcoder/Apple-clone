@@ -97,9 +97,7 @@ body {
   text-align: center;
 }
 
-footer a:hover {
-  text-decoration: underline;
-}
+
 
 footer a {
   color: #1d77ec;
@@ -110,6 +108,10 @@ footer a {
   font-size: 25px;
   color: white;
   text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
 }
 
 .hero a:hover {
