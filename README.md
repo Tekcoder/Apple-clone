@@ -13,4 +13,5 @@ All CSS code has been written in style.css to separate the styling logic from th
 Just open index.html in any browser to view.
 
 # Contributors
+
 Roheem Olayemi (@Tekcoder)
